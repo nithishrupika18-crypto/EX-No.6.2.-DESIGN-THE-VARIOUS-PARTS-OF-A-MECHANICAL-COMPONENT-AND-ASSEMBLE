@@ -1,4 +1,4 @@
-<img width="1070" height="767" alt="image" src="https://github.com/user-attachments/assets/2b9f062b-a7fe-4429-b785-c8e0e0bc3024" /># EX No.6.2.DESIGN THE VARIOUS PARTS OF A MECHANICAL COMPONENT AND ASSEMBLE
+# EX No.6.2.DESIGN THE VARIOUS PARTS OF A MECHANICAL COMPONENT AND ASSEMBLE
 ## DATE:21/11/2026
 
 ## AIM: 
